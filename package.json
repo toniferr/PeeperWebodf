@@ -1,0 +1,16 @@
+{
+  "name": "peeperwebodf",
+  "version": "1.0.0",
+  "description": "Aplicacion prueba con webodf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "util": "^0.12.4"
+  }
+}
